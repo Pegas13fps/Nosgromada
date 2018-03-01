@@ -899,6 +899,21 @@ div.content {
 #gkBottom4 .box a {
 	color: #555;
 }
+#gkBottom4 .box a::before {
+	content: '';
+    display: inline-block;
+    background-color: #000;
+    width: 0px;
+    height: 2px;
+    position: absolute;
+    /* top: 0px; */
+    transform: translate(-2px, 19px);
+    z-index: 1;
+}
+#gkBottom4 .box a:hover:before {
+	width: 50px;
+	transition: .4s;
+}
 #gkBottom3 .box a:active,
 #gkBottom3 .box a:focus,
 #gkBottom3 .box a:hover,
@@ -1028,7 +1043,4 @@ body[data-mobile="true"] #gkMobileMenu select { font-size: 50px; }
 }
 #gkSidebarLeft .box.menu {
 	padding: 28px 10px;
-}
-#gkSidebarLeft div.ul-wrapper {
-	background: transparent !important;
 }

@@ -31,7 +31,7 @@
 	justify-content: space-between;
 }
 .gkMenu > ul > li .hv:hover {
-	background-color: #ccc;
+	color: #000;
 }
 .gkMenu > ul > li {
 	border: none;
@@ -40,6 +40,7 @@
 	/* float: left; */
 	font-size: /*14px;*/ 20px;
 	/* font-weight: 700; - before */
+	background: #009ae1;
 	font-weight: bolder;
 	height: 54px;
 	line-height: 55px;
@@ -48,24 +49,25 @@
 	width: auto;
 }
 .gkMenu > ul > li.haschild:after {
-	color: #009999;
+	color: #fff;
 	content: "\f107";
 	display: block;
 	font-family: FontAwesome, sans-serif;
 	position: absolute;
-	right: 17px;
-	top: -1px;
+	right: 50%;
+	top: 20px;
 }
 .gkMenu > ul > li > a {
 	border-right: 1px solid #e5e5e5;
-	color: #414853;
+	color: #fff;
 	display: block;
 	height: 54px;
 	line-height: 55px;
-	padding: /*0 32px;*/ 0 9px;
+	padding: 0 9px;
+	/* text-shadow: 0 0 5px #fff; */
 }
 .gkMenu > ul > li.haschild > a {
-	padding-right: 40px;
+	/* padding-right: 40px; */
 }
 .gkMenu > ul > li a small {
 	display: block;
@@ -116,7 +118,7 @@
 .gkMenu > ul > li > a:active,
 .gkMenu > ul > li > a:focus,
 .gkMenu > ul > li.active > a {
-	color: #eb1e00;
+	color: #fff;
 }
 .gkMenu ul ul { 
 	color: #999;
@@ -124,7 +126,7 @@
 	background: #009ae1;
 }
 .gkMenu > ul li div.childcontent {
-	background: #fff;
+	background: #000;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
