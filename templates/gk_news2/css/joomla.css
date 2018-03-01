@@ -292,8 +292,8 @@ section.blog .children h3 {
 	float: none
 }
 table {
-	margin-bottom: 20px;
-	width: 100%
+	width: 95%;
+    margin: 10px auto 25px;
 }
 th {
 	border-top: 1px solid #222;
