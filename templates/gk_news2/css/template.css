@@ -1026,3 +1026,9 @@ body[data-mobile="true"] #gkMobileMenu select { font-size: 50px; }
 		width:auto;
 	}
 }
+#gkSidebarLeft .box.menu {
+	padding: 28px 10px;
+}
+#gkSidebarLeft div.ul-wrapper {
+	background: transparent !important;
+}
