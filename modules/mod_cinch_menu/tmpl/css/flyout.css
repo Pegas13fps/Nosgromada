@@ -89,6 +89,10 @@ ul.flyout-menu > li > .item-wrapper > .menu-link > a {
 ul.flyout-menu.text-left .menu-link {
 /*	float:left; */
 	margin-right: /*21px;*/ 0;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	background-color: #009ae1;
+	text-align: center;
 }
 ul.flyout-menu.text-right .menu-link {
 /*	float:right; */
@@ -239,7 +243,7 @@ ul.flyout-menu.horizontal.msie8 > li > .ul-wrapper {
 	ul.flyout-menu.text-left li li li > .item-wrapper > .menu-link > a,
 	ul.flyout-menu.text-left li li li li > .item-wrapper > .menu-link > a,
 	ul.flyout-menu.text-left li li li li li > .item-wrapper > .menu-link > a {
-		padding-left:/*9px;*/ 35px;
+		/* padding-left: 35px; */
 	}
 }
 
@@ -251,10 +255,10 @@ list-style-type: none;
 } 
 
 /**/
-ul.flyout-menu li li:hover:before, 
+/* ul.flyout-menu li li:hover:before, 
 ul.flyout-menu li li li:hover:before,
 ul.flyout-menu li li li li:hover:before { 
 left:25px !important; 
-}
+} */
 
-ul.flyout-menu > li.separator  > .item-wrapper > .menu-link > a {cursor:text!important}
+/* ul.flyout-menu > li.separator  > .item-wrapper > .menu-link > a {cursor:text!important} */

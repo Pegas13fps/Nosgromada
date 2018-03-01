@@ -1047,14 +1047,18 @@ div.search-pages-counter {
 	transition: padding .3s ease-out;
 	cursor: pointer;
 }
+.box.menu .ul-wrapper li:first-child {
+	padding: 3px 0 2px;
+}
 .box.menu li:hover {
 	padding: 2px 0 2px 0px;
 	background-color: #ccc;
 	color: #fff;
 }
-.box.menu li:before {
+/* .box.menu li:before {
 	color: #fff;
 	content: "\f105";
+	opacity: 0; DEL
 	font-family: FontAwesome;
 	left: -20px;
 	position: absolute;
@@ -1064,7 +1068,7 @@ div.search-pages-counter {
 	-o-transition: all .5s ease-out;
 	transition: all .5s ease-out;
 	top: 8px;
-}
+} */
 .box.menu li:hover:before {
 	color: #eb1e00;
 	left: -10px;
@@ -1076,7 +1080,7 @@ div.search-pages-counter {
 	padding: 7px 0;
 }
 
-/**/.box.menu li a {color:#666;}
+/**/.box.menu li a {color:#fff;}
 /**/.box.menu li a:hover, .box.menu li a:active, .box.menu li a:focus {
 	color:/*#8ac95c;*/ #00cccc;
 }

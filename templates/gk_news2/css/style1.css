@@ -141,6 +141,7 @@ dl.tabs dt.tabs.open a {
 .autocompleter-queried { color: /*#8ac95c!important;*/ #00cccc !important;}
 .box.menu li:hover:before {
 	color: /*#8ac95c;*/ #00cccc;
+	/* opacity: 1; DEL */
 }
 .box.menu li span.separator {
 	color: /*#8ac95c;*/ #00cccc;
