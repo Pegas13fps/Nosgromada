@@ -240,10 +240,10 @@ span.gkwDayDay {
 .gkMenu > ul > li > a:active,
 .gkMenu > ul > li > a:focus,
 .gkMenu > ul > li.active > a {
-	color: /*#8ac95c;*/ #009999;
+	/* color: #8ac95c; */
 }
 .gkMenu > ul li div.childcontent a:hover {
-	color: #666!important
+	color: #fff!important
 }
 #gkMenuOverlayClose {
     color: /*#8ac95c;*/ #00cccc;

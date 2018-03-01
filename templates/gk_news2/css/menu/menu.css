@@ -10,7 +10,7 @@
  
 /* Base for all menus */
 #gkMainMenu {
-	float: left;
+	/* float: left; */
 	margin: 0 auto;
 	padding: 0;
 }
@@ -27,6 +27,8 @@
 .gkMenu > ul {
 	margin: 0;
 	padding: 0;
+	display: flex;
+	justify-content: space-between;
 }
 .gkMenu > ul > li .hv:hover {
 	background-color: #ccc;
@@ -35,7 +37,7 @@
 	border: none;
 	border-bottom: 1px solid #ccc;
 	display: block;
-	float: left;
+	/* float: left; */
 	font-size: /*14px;*/ 20px;
 	/* font-weight: 700; - before */
 	font-weight: bolder;
@@ -46,7 +48,7 @@
 	width: auto;
 }
 .gkMenu > ul > li.haschild:after {
-	color: /*#8ac95c;*/ #009999;
+	color: #009999;
 	content: "\f107";
 	display: block;
 	font-family: FontAwesome, sans-serif;
@@ -56,11 +58,11 @@
 }
 .gkMenu > ul > li > a {
 	border-right: 1px solid #e5e5e5;
-	color: /*#666;*/ #009999;
+	color: #414853;
 	display: block;
 	height: 54px;
 	line-height: 55px;
-	padding: /*0 32px;*/ 0 35px;
+	padding: /*0 32px;*/ 0 9px;
 }
 .gkMenu > ul > li.haschild > a {
 	padding-right: 40px;
@@ -119,7 +121,7 @@
 .gkMenu ul ul { 
 	color: #999;
 	padding: 12px 0 8px;
-	background:/*#8ac95c;*/ #00cccc;
+	background: #009ae1;
 }
 .gkMenu > ul li div.childcontent {
 	background: #fff;
@@ -163,7 +165,7 @@
 .gkMenu > ul li div.childcontent li:hover, 
 .gkMenu > ul li div.childcontent li:active, 
 .gkMenu > ul li div.childcontent li:focus {
-	background:/*#a6e07c;*/ #00dddd;
+	background: #47505b;
 }
 .gkMenu > ul li div.childcontent a:hover {
 	color: #eb1e00!important;
@@ -171,7 +173,7 @@
 
 .gkMenu > ul li div.childcontent li:hover > a,
 .gkMenu > ul li div.childcontent li:hover > a small {
-	color: #777;	
+	color: #fff;	
 	-webkit-transition: color .2s ease-out;
 	-moz-transition: color .2s ease-out;
 	-ms-transition: color .2s ease-out;
