@@ -1,0 +1,1227 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#" lang="uk-ua" >
+<head>
+		        	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2.0">
+	    <base href="https://nosgromada.gov.ua/novyny" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta property="og:url" content="https://nosgromada.gov.ua/novyny?start=154" />
+	<meta property="og:title" content="Новини" />
+	<meta property="og:type" content="website" />
+	<title>Новини</title>
+	<link href="https://nosgromada.gov.ua/images/favicon.png" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/templates/gk_news2/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="https://nosgromada.gov.ua/component/search/?Itemid=162&amp;format=opensearch" rel="search" title="Пошук Носівська об'єднана громада" type="application/opensearchdescription+xml" />
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/css/simple-line-icons.min.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/gk_news2/css/k2.css?v=2.8.0" rel="stylesheet" type="text/css" />
+	<link href="/plugins/system/jcemediabox/css/jcemediabox.css?1d12bb5a40100bbd1841bfc0e498ce7b" rel="stylesheet" type="text/css" />
+	<link href="/plugins/system/jcemediabox/themes/standard/css/style.css?50fba48f56052a048c5cf30829163e4d" rel="stylesheet" type="text/css" />
+	<link href="/media/system/css/modal.css?d12abd1615c7c93dc30bf8225b96bfdb" rel="stylesheet" type="text/css" />
+	<link href="https://nosgromada.gov.ua/templates/gk_news2/css/font-awesome.css" rel="stylesheet" type="text/css" />
+	<link href="https://nosgromada.gov.ua/templates/gk_news2/css/normalize.css" rel="stylesheet" type="text/css" />
+	<link href="https://nosgromada.gov.ua/templates/gk_news2/css/layout.css" rel="stylesheet" type="text/css" />
+	<link href="https://nosgromada.gov.ua/templates/gk_news2/css/joomla.css" rel="stylesheet" type="text/css" />
+	<link href="https://nosgromada.gov.ua/templates/gk_news2/css/system/system.css" rel="stylesheet" type="text/css" />
+	<link href="https://nosgromada.gov.ua/templates/gk_news2/css/template.css" rel="stylesheet" type="text/css" />
+	<link href="https://nosgromada.gov.ua/templates/gk_news2/css/menu/menu.css" rel="stylesheet" type="text/css" />
+	<link href="https://nosgromada.gov.ua/templates/gk_news2/css/gk.stuff.css" rel="stylesheet" type="text/css" />
+	<link href="https://nosgromada.gov.ua/templates/gk_news2/css/style1.css" rel="stylesheet" type="text/css" />
+	<link href="https://nosgromada.gov.ua/templates/gk_news2/css/typography/typography.style1.css" rel="stylesheet" type="text/css" />
+	<link href="/modules/mod_cinch_menu/tmpl/css/flyout.css" rel="stylesheet" type="text/css" />
+	<link href="https://nosgromada.gov.ua/modules/mod_highlighter_gk5/interface/css/style.css" rel="stylesheet" type="text/css" />
+	<style type="text/css">
+.childcontent .gkcol { width: 200px; }.nspArt h4.nspHeader {font-size: 20px;  text-shadow: 2px 2px 2px #CCCCCC;}
+.gkHighlighterWrapper:hover .gkHighlighterItem a {color: #00cccc !important;}#gkSidebarLeft { width: 20%; }
+#gkUpdates { width: 20%; }
+#gkHighlights { width: 81.5%; }
+#gkContent { background-image: none!important; }#gkPageContent { width: 80%; }
+#gkPageContent > div { width: 100%; }
+#gkContent { width: 100%; }
+.gkPage { max-width: 1230px; }
+#gkContentWrap > div { width: 100%; }
+#menu161 > div,
+#menu161 > div > .childcontent-inner { width: 200px; }
+#menu182 > div,
+#menu182 > div > .childcontent-inner { width: 200px; }
+#menu164 > div,
+#menu164 > div > .childcontent-inner { width: 200px; }
+	#flyout_menu_141 {
+		background: #ffffff;
+	}
+	#flyout_menu_141 .ul-wrapper,
+	#flyout_menu_141 ul {
+		background: #ffffff;
+	}
+	#flyout_menu_141 a {
+		color: #666666;
+	}
+	#flyout_menu_141 .item-wrapper:hover a,
+	#flyout_menu_141 li.current > .item-wrapper a,
+	#flyout_menu_141 li.opened > .item-wrapper a {
+		color: #00cccc;
+	}
+	#flyout_menu_141 li.open,
+	#flyout_menu_141 li:hover {
+		background: #ffffff;
+	}
+
+	@media screen and (max-width:767px) {
+	#flyout_menu_141 .ul-wrapper,
+	#flyout_menu_141 ul {
+		width: auto;
+	}
+	#flyout_menu_141.horizontal ul .menu-link {
+		width: auto;
+	}
+}
+
+@media screen and (min-width:768px) {
+	#flyout_menu_141 .ul-wrapper,
+	#flyout_menu_141 ul {
+		width: 200px;
+	}
+	#flyout_menu_141.msie6 ul,
+	#flyout_menu_141.msie7 ul,
+	#flyout_menu_141.msie8 ul {
+		width: px;
+	}
+	#flyout_menu_141.horizontal.msie6 .menu-link,
+	#flyout_menu_141.horizontal.msie7 .menu-link,
+	#flyout_menu_141.horizontal.msie8 .menu-link {
+		width: px;
+	}
+	#flyout_menu_141.horizontal.msie6 > li > .item-wrapper,
+	#flyout_menu_141.horizontal.msie7 > li > .item-wrapper,
+	#flyout_menu_141.horizontal.msie8 > li > .item-wrapper {
+		width: px;
+	}
+}#gkHighlighterGK5-0 .gkHighlighterInterface span.text { color: #ffffff; } #gkHighlighterGK5-0 .gkHighlighterInterface { background-color: #00cccc; border-radius: 26px; -moz-border-radius: 26px; -webkit-border-radius: 26px; }
+	</style>
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"c8ce7c18264047a553642e3d60cee422","system.paths":{"root":"","base":""}}</script>
+	<script src="/media/jui/js/jquery.min.js?d12abd1615c7c93dc30bf8225b96bfdb" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js?d12abd1615c7c93dc30bf8225b96bfdb" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js?d12abd1615c7c93dc30bf8225b96bfdb" type="text/javascript"></script>
+	<script src="/media/k2/assets/js/k2.frontend.js?v=2.8.0&amp;sitepath=/" type="text/javascript"></script>
+	<script src="/plugins/system/jcemediabox/js/jcemediabox.js?0c56fee23edfcb9fbdfe257623c5280e" type="text/javascript"></script>
+	<script src="/media/jui/js/bootstrap.min.js?d12abd1615c7c93dc30bf8225b96bfdb" type="text/javascript"></script>
+	<script src="/media/system/js/mootools-core.js?d12abd1615c7c93dc30bf8225b96bfdb" type="text/javascript"></script>
+	<script src="/media/system/js/core.js?d12abd1615c7c93dc30bf8225b96bfdb" type="text/javascript"></script>
+	<script src="/media/system/js/mootools-more.js?d12abd1615c7c93dc30bf8225b96bfdb" type="text/javascript"></script>
+	<script src="/media/system/js/modal.js?d12abd1615c7c93dc30bf8225b96bfdb" type="text/javascript"></script>
+	<script src="https://nosgromada.gov.ua/templates/gk_news2/js/modernizr.js" type="text/javascript"></script>
+	<script src="https://nosgromada.gov.ua/templates/gk_news2/js/gk.scripts.js" type="text/javascript"></script>
+	<script src="https://nosgromada.gov.ua/templates/gk_news2/js/gk.menu.js" type="text/javascript"></script>
+	<script src="https://nosgromada.gov.ua/templates/gk_news2/js/fitvids.jquery.js" type="text/javascript"></script>
+	<script src="/modules/mod_cinch_menu/tmpl/js/jquery-1.8.2.min.js" type="text/javascript"></script>
+	<script src="/modules/mod_cinch_menu/tmpl/js/jquery-noconflict.js" type="text/javascript"></script>
+	<script src="https://nosgromada.gov.ua/modules/mod_highlighter_gk5/interface/scripts/jquery.easing.js" type="text/javascript"></script>
+	<script src="https://nosgromada.gov.ua/modules/mod_highlighter_gk5/interface/scripts/engine.jquery.js" type="text/javascript"></script>
+	<script type="text/javascript">
+JCEMediaBox.init({popup:{width:"",height:"",legacy:0,lightbox:0,shadowbox:0,resize:1,icons:1,overlay:1,overlayopacity:0.8,overlaycolor:"#000000",fadespeed:500,scalespeed:500,hideobjects:0,scrolling:"fixed",close:2,labels:{'close':'Close','next':'Next','previous':'Previous','cancel':'Cancel','numbers':'{$current} of {$total}'},cookie_expiry:"",google_viewer:0},tooltip:{className:"tooltip",opacity:0.8,speed:150,position:"br",offsets:{x: 16, y: 16}},base:"/",imgpath:"plugins/system/jcemediabox/img",theme:"standard",themecustom:"",themepath:"plugins/system/jcemediabox/themes",mediafallback:0,mediaselector:"audio,video"});
+		jQuery(function($) {
+			SqueezeBox.initialize({});
+			SqueezeBox.assign($('a.modal').get(), {
+				parse: 'rel'
+			});
+		});
+
+		window.jModalClose = function () {
+			SqueezeBox.close();
+		};
+		
+		// Add extra modal close functionality for tinyMCE-based editors
+		document.onreadystatechange = function () {
+			if (document.readyState == 'interactive' && typeof tinyMCE != 'undefined' && tinyMCE)
+			{
+				if (typeof window.jModalClose_no_tinyMCE === 'undefined')
+				{	
+					window.jModalClose_no_tinyMCE = typeof(jModalClose) == 'function'  ?  jModalClose  :  false;
+					
+					jModalClose = function () {
+						if (window.jModalClose_no_tinyMCE) window.jModalClose_no_tinyMCE.apply(this, arguments);
+						tinyMCE.activeEditor.windowManager.close();
+					};
+				}
+		
+				if (typeof window.SqueezeBoxClose_no_tinyMCE === 'undefined')
+				{
+					if (typeof(SqueezeBox) == 'undefined')  SqueezeBox = {};
+					window.SqueezeBoxClose_no_tinyMCE = typeof(SqueezeBox.close) == 'function'  ?  SqueezeBox.close  :  false;
+		
+					SqueezeBox.close = function () {
+						if (window.SqueezeBoxClose_no_tinyMCE)  window.SqueezeBoxClose_no_tinyMCE.apply(this, arguments);
+						tinyMCE.activeEditor.windowManager.close();
+					};
+				}
+			}
+		};
+		
+ $GKMenu = { height:false, width:false, duration: 500 };
+$GK_TMPL_URL = "https://nosgromada.gov.ua/templates/gk_news2";
+
+$GK_URL = "https://nosgromada.gov.ua/";
+
+	</script>
+	<meta property="og:title" content="" />
+	<meta property="og:type" content="website" />
+	<meta property="og:image" content="https://nosgromada.gov.ua/" />
+	<meta property="og:site_name" content="" />
+	<meta property="og:description" content="" />
+	<link rel="apple-touch-icon" href="https://nosgromada.gov.ua/templates/gk_news2/images/touch-device.png">
+	<link rel="apple-touch-icon-precomposed" href="https://nosgromada.gov.ua/templates/gk_news2/images/touch-device.png">
+
+    <link rel="stylesheet" href="https://nosgromada.gov.ua/templates/gk_news2/css/small.desktop.css" media="(max-width: 1230px)" />
+<link rel="stylesheet" href="https://nosgromada.gov.ua/templates/gk_news2/css/tablet.css" media="(max-width: 1024px)" />
+<link rel="stylesheet" href="https://nosgromada.gov.ua/templates/gk_news2/css/small.tablet.css" media="(max-width: 820px)" />
+<link rel="stylesheet" href="https://nosgromada.gov.ua/templates/gk_news2/css/mobile.css" media="(max-width: 580px)" />
+
+<!--[if IE 9]>
+<link rel="stylesheet" href="https://nosgromada.gov.ua/templates/gk_news2/css/ie/ie9.css" type="text/css" />
+<![endif]-->
+
+<!--[if IE 8]>
+<link rel="stylesheet" href="https://nosgromada.gov.ua/templates/gk_news2/css/ie/ie8.css" type="text/css" />
+<![endif]-->
+
+<!--[if lte IE 7]>
+<link rel="stylesheet" href="https://nosgromada.gov.ua/templates/gk_news2/css/ie/ie7.css" type="text/css" />
+<![endif]-->
+
+<!--[if lte IE 9]>
+<script type="text/javascript" src="https://nosgromada.gov.ua/templates/gk_news2/js/ie.js"></script>
+<![endif]-->
+
+<!--[if (gte IE 6)&(lte IE 8)]>
+<script type="text/javascript" src="https://nosgromada.gov.ua/templates/gk_news2/js/respond.js"></script>
+<script type="text/javascript" src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+	 </head>
+<body data-tablet-width="1024" data-tablet-small-width="820" data-mobile-width="580" data-smoothscroll="1">	
+			
+		
+	<div id="gkBg" class="gkPage">
+		<div id="gkTopBar" data-menu-type="classic">
+		    
+          <a href="https://nosgromada.gov.ua/" id="gkLogo">
+        <img src="https://nosgromada.gov.ua/images/name2.png" alt="Носівська об'єднана громада" />
+     </a>
+     		    
+		    	
+		    <div id="gkBannerTop">
+		    	
+
+<div class="custom "  >
+
+	<p><img src="/images/gerb-ukraine.png" alt="gerb ukraine" /></p>	
+</div>
+
+		    </div>
+		      
+		    
+		    <div id="gkTopNav">
+								<div id="gkMainMenu" class="gkMenuClassic">
+				        <nav id="gkExtraMenu" class="gkMenu">
+<ul class="gkmenu level0"><li  class="first"><a href="https://nosgromada.gov.ua/"  class=" first" id="menu101"  >Головна</a></li><li  class="haschild"><a href="/nasha-hromada"  class=" haschild" id="menu161"  >Наша громада</a><div class="childcontent">
+<div class="childcontent-inner">
+<div class="gkcol gkcol1  first"><ul class="gkmenu level1"><li  class="first"><a href="/nasha-hromada/istoriia"  class=" first" id="menu166"  >Історія</a></li><li ><a href="/nasha-hromada/pasport-hromady"  id="menu167"  >Паспорт  громади</a></li><li ><a href="/nasha-hromada/statut-hromady"  id="menu168"  >Статут громади</a></li><li ><a href="/nasha-hromada/symvolika"  id="menu169"  >Символіка</a></li><li  class="last"><a href="/nasha-hromada/asotsiatsii"  class=" last" id="menu170"  >Асоціації</a></li></ul></div>
+</div>
+</div></li><li  class="haschild"><a href="#"  class=" haschild" id="menu182"  >Міська рада</a><div class="childcontent">
+<div class="childcontent-inner">
+<div class="gkcol gkcol1  first"><ul class="gkmenu level1"><li  class="first"><a href="/miska-rada/miskyi-holova"  class=" first" id="menu177"  >Міський голова</a></li><li ><a href="/miska-rada/pershyi-zastupnyk-miskoho-holovy"  id="menu178"  >Перший заступник міського голови</a></li><li ><a href="/miska-rada/zastupnyky-miskoho-holovy"  id="menu179"  >Заступники міського голови</a></li><li ><a href="/miska-rada/keruyuchij-spravami-vikonavchogo-komitetu"  id="menu180"  >Керуючий справами виконавчого комітету</a></li><li ><a href="/miska-rada/sekretar-miskoi-rady"  id="menu181"  >Секретар міської ради</a></li><li ><a href="/miska-rada/starosty"  id="menu189"  >Старости</a></li><li ><a href="/miska-rada/deputaty"  id="menu188"  >Депутати</a></li><li ><a href="/miska-rada/fraktsii-ta-hrupy"  id="menu190"  >Фракції та групи</a></li><li ><a href="/miska-rada/postiini-komisii"  id="menu191"  >Постійні комісії</a></li><li ><a href="/miska-rada/struktura-miskoi-rady"  id="menu192"  >Структура міської ради</a></li><li ><a href="/miska-rada/proekty-rishen-miskoi-rady"  id="menu193"  >Проекти рішень міської ради</a></li><li ><a href="/miska-rada/rishennia-miskoi-rady"  id="menu194"  >Рішення міської ради</a></li><li ><a href="/miska-rada/vakansii"  id="menu195"  >Вакансії</a></li><li  class="last"><a href="/miska-rada/kontakty"  class=" last" id="menu196"  >Контакти</a></li></ul></div>
+</div>
+</div></li><li  class="active"><a href="/novyny"  class=" active" id="menu162"  >Новини</a></li><li ><a href="/fotohalereia"  id="menu267"  >Фотогалерея</a></li><li  class="haschild"><a href="/servisy"  class=" haschild" id="menu164"  >Сервіси</a><div class="childcontent">
+<div class="childcontent-inner">
+<div class="gkcol gkcol1  first"><ul class="gkmenu level1"><li  class="first"><a href="/servisy/korysni-posylannia"  class=" first" id="menu171"  >Корисні посилання</a></li></ul></div>
+</div>
+</div></li><li  class="last"><a href="/kontakty"  class=" last" id="menu165"  >Контакти</a></li></ul>
+</nav>				</div>
+										
+				<div id="gkMobileMenu" class="gkPage"> 
+					<i id="mobile-menu-toggler" class="fa fa-bars"></i>
+				   	<select id="mobileMenu" onChange="window.location.href=this.value;" class="chzn-done">
+				       <option  value="https://nosgromada.gov.ua/">Головна</option><option  value="/nasha-hromada">Наша громада</option><option  value="/nasha-hromada/istoriia">&mdash; Історія</option><option  value="/nasha-hromada/pasport-hromady">&mdash; Паспорт  громади</option><option  value="/nasha-hromada/statut-hromady">&mdash; Статут громади</option><option  value="/nasha-hromada/symvolika">&mdash; Символіка</option><option  value="/nasha-hromada/asotsiatsii">&mdash; Асоціації</option><option  value="#">Міська рада</option><option  value="/miska-rada/miskyi-holova">&mdash; Міський голова</option><option  value="/miska-rada/pershyi-zastupnyk-miskoho-holovy">&mdash; Перший заступник міського голови</option><option  value="/miska-rada/zastupnyky-miskoho-holovy">&mdash; Заступники міського голови</option><option  value="/miska-rada/keruyuchij-spravami-vikonavchogo-komitetu">&mdash; Керуючий справами виконавчого комітету</option><option  value="/miska-rada/sekretar-miskoi-rady">&mdash; Секретар міської ради</option><option  value="/miska-rada/starosty">&mdash; Старости</option><option  value="/miska-rada/deputaty">&mdash; Депутати</option><option  value="/miska-rada/fraktsii-ta-hrupy">&mdash; Фракції та групи</option><option  value="/miska-rada/postiini-komisii">&mdash; Постійні комісії</option><option  value="/miska-rada/struktura-miskoi-rady">&mdash; Структура міської ради</option><option  value="/miska-rada/proekty-rishen-miskoi-rady">&mdash; Проекти рішень міської ради</option><option  value="/miska-rada/rishennia-miskoi-rady">&mdash; Рішення міської ради</option><option  value="/miska-rada/vakansii">&mdash; Вакансії</option><option  value="/miska-rada/kontakty">&mdash; Контакти</option><option selected="selected"  value="/novyny">Новини</option><option  value="/fotohalereia">Фотогалерея</option><option  value="/servisy">Сервіси</option><option  value="/servisy/korysni-posylannia">&mdash; Корисні посилання</option><option  value="/kontakty">Контакти</option>				   	</select>
+				</div>
+			     
+			     		         
+		           
+			 </div>
+			 
+			 			 <div id="gkToolbar">
+			 	 
+			 	
+			 		
+			 	<div id="gkHighlights">
+			 		<div class="gkHighlighterGK5" id="gkHighlighterGK5-0" data-config="{'animationType':'slides','animationSpeed':'350','animationInterval':'5000','animationFun':'Fx.Transitions.linear','mouseover':'false'}">
+        <div class="gkHighlighterInterface" data-pos="left">
+                        <div><a href="#" class="prev"></a>
+        <a href="#" class="next"></a></div>
+            </div>
+        <div class="gkHighlighterWrapper">
+    	<div class="gkHighlighterWrapperSub">
+                                                    	<div class="gkHighlighterItem"><span><a href="/novyny/item/404-nosivskyi-prohnostyk-peredbachyv-shvydkyi-prykhid-vesny"><span>Носівський прогностик передбачив швидкий прихід весни</span></a></span></div>
+                                                            	<div class="gkHighlighterItem"><span><a href="/novyny/item/403-oi-smachni-buly-mlyntsi"><span>Ой, смачні були млинці!</span></a></span></div>
+                                                            	<div class="gkHighlighterItem"><span><a href="/novyny/item/402-my-pamiataiemo"><span>Ми — пам'ятаємо</span></a></span></div>
+                                                            	<div class="gkHighlighterItem"><span><a href="/miska-rada/rishennia-miskoi-rady/item/401-33-sesiia-nosivskoi-miskoi-rady-7ho-sklykannia-vid-16022018-roku"><span>33 сесія Носівської міської ради 7-го скликання від 16.02.2018 року</span></a></span></div>
+                                                            	<div class="gkHighlighterItem"><span><a href="/novyny/item/399-bolyt-i-dosi-nam-afhan"><span>Болить і досі нам Афган</span></a></span></div>
+                                                            	<div class="gkHighlighterItem"><span><a href="/novyny/item/398-na-bilkh-krylakh-kokhannia"><span>На білих крилах кохання</span></a></span></div>
+                                                            	<div class="gkHighlighterItem"><span><a href="/proekty-rishen-vykonavchoho-komitetu/item/397-proekty-rishen-vykonavchoho-komitetu-vid-09-liutoho-2018-roku"><span>Проекти рішень виконавчого комітету від 09 лютого 2018 року</span></a></span></div>
+                                                            	<div class="gkHighlighterItem"><span><a href="/novyny/item/396-sohodni-den-vshanuvannia-uchasnykiv-boiovykh-dii-na-terytorii-inshykh-derzhav"><span>Сьогодні — День  вшанування учасників бойових дій на території інших держав</span></a></span></div>
+                                                            	<div class="gkHighlighterItem"><span><a href="/novyny/item/395-sulak-matyme-svii-heneralnyi-plan"><span>Сулак матиме свій Генеральний план</span></a></span></div>
+                                                            	<div class="gkHighlighterItem"><span><a href="/novyny/item/393-laureaty-i-premii"><span>Лауреати І премії</span></a></span></div>
+                                        </div>
+    </div>
+</div>
+
+			 	</div>
+			 				 	
+			 		
+			 	<div id="gkSearch">
+			 		<form action="/novyny" method="post">
+	<div class="search">
+		<input name="searchword" id="mod-search-searchword" maxlength="200"  class="inputbox" type="text" size="0" placeholder="Пошук..." />	<input type="hidden" name="task" value="search" />
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value="162" />
+	</div>
+</form>
+
+			 	</div>
+			 	   
+			 </div>
+			 		</div>
+	
+		<div id="gkPageContent">	
+	    	<div>
+		    	<section id="gkContent">
+										
+										<section id="gkBreadcrumb">
+												
+<div id="k2ModuleBox102" class="k2BreadcrumbsBlock">
+	<span class="bcTitle"></span><a href="https://nosgromada.gov.ua/">Головна</a><span class="bcSeparator">&raquo;</span><a href="/novyny">Новини</a></div>
+
+												
+											</section>
+										
+										
+										
+					<div id="gkContentWrap">
+						<div>
+							
+								
+							
+							<section id="gkMainbody">
+																	
+<div id="k2Container" class="itemListView">
+						<div class="itemListCategoriesBlock">
+								<div class="itemsCategory">
+												
+																		<h2> Новини														</h2>
+																		 </div>
+										</div>
+				
+				<div class="itemList">
+								<div id="itemListLeading">	
+																		<div class="itemListRow gkListCols1">
+							
+						
+												<div class="itemContainer itemContainerLast">
+								<div class="itemsContainerWrap">
+<article class="itemView groupLeading">  		
+		<div class="itemBlock">	
+								<div class="itemImageBlock"> <a class="itemImage" href="/novyny/item/128-mystetskyi-podarunok-vid-nosivskykh-kultpratsivnykiv" title="Мистецький подарунок від носівських культпрацівників"> <img src="/media/k2/items/cache/f60a47f7792630a3a86bc14c0657e89c_M.jpg" alt="Мистецький подарунок від носівських культпрацівників" style="width:400px; height:auto;" /> </a> </div>
+								
+				<header>
+										
+												<h2>
+																<a href="/novyny/item/128-mystetskyi-podarunok-vid-nosivskykh-kultpratsivnykiv">Мистецький подарунок від носівських культпрацівників</a>
+																						</h2>
+										</header>
+				
+				 
+								
+				<div class="itemBody">  												<div class="itemIntroText"> &nbsp; 9 листопада з нагоди Всеукраїнського Дня працівників культури та майстрів народного мистецтва, відбувся виїзний концерт аматорів сцени Носівського міського будинку культури в м.Бобровиця,. Концертна програма, з якою носівчани завітали&#8230; </div>
+																																				
+						 
+										</div>
+				
+								<ul>
+												<li>
+							<time datetime="2017-11-13T15:07:46+02:00">13 листопада 2017</time>
+						</li>
+						
+						
+												<li><span>Опубліковано в </span><a href="/novyny">Новини</a> 
+						</li>
+												
+						
+												
+										</ul>
+								
+								
+				
+				
+				 
+						</div>
+</article>
+</div>						</div>
+												</div>
+																</div>
+												<div id="itemListPrimary">
+												
+												<div class="itemListRow gkListCols2">
+												
+												<div class="itemContainer" style="width:49.9%;">
+								<div class="itemsContainerWrap">
+<article class="itemView groupPrimary">  		
+		<div class="itemBlock">	
+								<div class="itemImageBlock"> <a class="itemImage" href="/novyny/item/127-ne-lyshe-perevirty-a-i-praktychno-dopomahaty" title="Не лише перевіряти, а й практично допомагати"> <img src="/media/k2/items/cache/9ded0288e863fbe79d863f606cb05c21_M.jpg" alt="Не лише перевіряти, а й практично допомагати" style="width:400px; height:auto;" /> </a> </div>
+								
+				<header>
+										
+												<h2>
+																<a href="/novyny/item/127-ne-lyshe-perevirty-a-i-praktychno-dopomahaty">Не лише перевіряти, а й практично допомагати</a>
+																						</h2>
+										</header>
+				
+				 
+								
+				<div class="itemBody">  												<div class="itemIntroText"> &nbsp; Зміни, які відбулися після впровадження реформи з децентралізації влади, в результаті якої утворилися ОТГ, суттєво розширилися делеговані повноваження виконавчих органів міської ради та її структурних підрозділів. Звичайно, що додалося&#8230; </div>
+																																				
+						 
+										</div>
+				
+								<ul>
+												<li>
+							<time datetime="2017-11-13T14:19:38+02:00">13 листопада 2017</time>
+						</li>
+						
+						
+												<li><span>Опубліковано в </span><a href="/novyny">Новини</a> 
+						</li>
+												
+						
+												
+										</ul>
+								
+								
+				
+				
+				 
+						</div>
+</article>
+</div>						</div>
+																		
+												
+												<div class="itemContainer itemContainerLast" style="width:49.9%;">
+								<div class="itemsContainerWrap">
+<article class="itemView groupPrimary">  		
+		<div class="itemBlock">	
+								<div class="itemImageBlock"> <a class="itemImage" href="/novyny/item/126-kotelnia-dlia-miskoi-shkoly-5" title="Котельня для міської школи №5"> <img src="/media/k2/items/cache/8dc425b2acbf9c68064b8a63eae1ffbc_M.jpg" alt="Котельня для міської школи №5" style="width:400px; height:auto;" /> </a> </div>
+								
+				<header>
+										
+												<h2>
+																<a href="/novyny/item/126-kotelnia-dlia-miskoi-shkoly-5">Котельня для міської школи №5</a>
+																						</h2>
+										</header>
+				
+				 
+								
+				<div class="itemBody">  												<div class="itemIntroText"> У Носівській ЗОШ №5 І-ІІІ ст. вже у грудні цього року запрацює сучасна модульна котельня. Днями міський голова Володимир Ігнатченко зустрівся з начальником управління капітального будівництва Чернігівської ОДА Богданом Нечепою,&#8230; </div>
+																																				
+						 
+										</div>
+				
+								<ul>
+												<li>
+							<time datetime="2017-11-13T14:13:05+02:00">13 листопада 2017</time>
+						</li>
+						
+						
+												<li><span>Опубліковано в </span><a href="/novyny">Новини</a> 
+						</li>
+												
+						
+												
+										</ul>
+								
+								
+				
+				
+				 
+						</div>
+</article>
+</div>						</div>
+												</div>
+																		
+												<div class="itemListRow gkListCols2">
+												
+												<div class="itemContainer" style="width:49.9%;">
+								<div class="itemsContainerWrap">
+<article class="itemView groupPrimary">  		
+		<div class="itemBlock">	
+								<div class="itemImageBlock"> <a class="itemImage" href="/novyny/item/125-vulytsia-pryvokzalna-vzhe-z-tverdym-pokryttiam" title="Вулиця Привокзальна вже з твердим покриттям"> <img src="/media/k2/items/cache/dc9e231f652301f80ea8e901bd9ec18a_M.jpg" alt="Вулиця Привокзальна вже з твердим покриттям" style="width:400px; height:auto;" /> </a> </div>
+								
+				<header>
+										
+												<h2>
+																<a href="/novyny/item/125-vulytsia-pryvokzalna-vzhe-z-tverdym-pokryttiam">Вулиця Привокзальна вже з твердим покриттям</a>
+																						</h2>
+										</header>
+				
+				 
+								
+				<div class="itemBody">  												<div class="itemIntroText"> Вчора, 9 листопада, Носівський міський голова&nbsp; Володимир Ігнатченко з робочою групою побував на вулиці Привокзальній у Носівці, де триває капітальний ремонт дороги разом зі з'їздами прилеглих вулиць, асфальтування яких якраз&#8230; </div>
+																																				
+						 
+										</div>
+				
+								<ul>
+												<li>
+							<time datetime="2017-11-10T16:08:10+02:00">10 листопада 2017</time>
+						</li>
+						
+						
+												<li><span>Опубліковано в </span><a href="/novyny">Новини</a> 
+						</li>
+												
+						
+												
+										</ul>
+								
+								
+				
+				
+				 
+						</div>
+</article>
+</div>						</div>
+																		
+												
+												<div class="itemContainer itemContainerLast" style="width:49.9%;">
+								<div class="itemsContainerWrap">
+<article class="itemView groupPrimary">  		
+		<div class="itemBlock">	
+								<div class="itemImageBlock"> <a class="itemImage" href="/novyny/item/124-vitannia-iuviliara" title="Колишньому міському голові Михайлу Яременку - 60!"> <img src="/media/k2/items/cache/d9b208614500b6f80739755fd29fad52_M.jpg" alt="Колишньому міському голові Михайлу Яременку - 60!" style="width:400px; height:auto;" /> </a> </div>
+								
+				<header>
+										
+												<h2>
+																<a href="/novyny/item/124-vitannia-iuviliara">Колишньому міському голові Михайлу Яременку - 60!</a>
+																						</h2>
+										</header>
+				
+				 
+								
+				<div class="itemBody">  												<div class="itemIntroText"> Сьогодні свій 60-річний ювілей відзначає колишній міський голова Михайло Яременко, який очолював Носівську міську раду впродовж двох скликань з 1998 по 2006 рр. Міський голова Володимир Ігнатченко привітав ювіляра, щиро&#8230; </div>
+																																				
+						 
+										</div>
+				
+								<ul>
+												<li>
+							<time datetime="2017-11-10T15:23:46+02:00">10 листопада 2017</time>
+						</li>
+						
+						
+												<li><span>Опубліковано в </span><a href="/novyny">Новини</a> 
+						</li>
+												
+						
+												
+										</ul>
+								
+								
+				
+				
+				 
+						</div>
+</article>
+</div>						</div>
+												</div>
+																		
+												<div class="itemListRow gkListCols2">
+												
+												<div class="itemContainer" style="width:49.9%;">
+								<div class="itemsContainerWrap">
+<article class="itemView groupPrimary">  		
+		<div class="itemBlock">	
+								<div class="itemImageBlock"> <a class="itemImage" href="/novyny/item/123-ponad-try-kilometry-asfaltnobetonnoho-pokryttia-na-remont-dorih-u-nosivskii-oth" title="Понад три кілометри асфальтно-бетонного покриття - на ремонт доріг у Носівській ОТГ"> <img src="/media/k2/items/cache/4ab4b6df96c060fa741e97b50eafb07c_M.jpg" alt="Понад три кілометри асфальтно-бетонного покриття - на ремонт доріг у Носівській ОТГ" style="width:400px; height:auto;" /> </a> </div>
+								
+				<header>
+										
+												<h2>
+																<a href="/novyny/item/123-ponad-try-kilometry-asfaltnobetonnoho-pokryttia-na-remont-dorih-u-nosivskii-oth">Понад три кілометри асфальтно-бетонного покриття - на ремонт доріг у Носівській ОТГ</a>
+																						</h2>
+										</header>
+				
+				 
+								
+				<div class="itemBody">  												<div class="itemIntroText"> Дороги – одна з головних проблем нашої громади, яка гостро стоїть не один рік. Звісно, що вирішити всі дорожні проблеми і всюди в один момент неможливо. Однак міська рада і&#8230; </div>
+																																				
+						 
+										</div>
+				
+								<ul>
+												<li>
+							<time datetime="2017-11-10T14:12:12+02:00">10 листопада 2017</time>
+						</li>
+						
+						
+												<li><span>Опубліковано в </span><a href="/novyny">Новини</a> 
+						</li>
+												
+						
+												
+										</ul>
+								
+								
+				
+				
+				 
+						</div>
+</article>
+</div>						</div>
+																		
+												
+												<div class="itemContainer itemContainerLast" style="width:49.9%;">
+								<div class="itemsContainerWrap">
+<article class="itemView groupPrimary">  		
+		<div class="itemBlock">	
+								<div class="itemImageBlock"> <a class="itemImage" href="/novyny/item/122-vitannia-z-nahody-profesiinoho-sviata-vseukrainskoho-dnia-pratsivnykiv-kultury-ta-maistriv-narodnoho-mystetstva" title="Вітання з нагоди  Всеукраїнського дня працівників культури та майстрів народного мистецтва"> <img src="/media/k2/items/cache/97aa066dcc42404e7602768333af5659_M.jpg" alt="Вітання з нагоди  Всеукраїнського дня працівників культури та майстрів народного мистецтва" style="width:400px; height:auto;" /> </a> </div>
+								
+				<header>
+										
+												<h2>
+																<a href="/novyny/item/122-vitannia-z-nahody-profesiinoho-sviata-vseukrainskoho-dnia-pratsivnykiv-kultury-ta-maistriv-narodnoho-mystetstva">Вітання з нагоди  Всеукраїнського дня працівників культури та майстрів народного мистецтва</a>
+																						</h2>
+										</header>
+				
+				 
+								
+				<div class="itemBody">  												<div class="itemIntroText"> Шановні працівники культури та майстри народного мистецтва! Сердечно вітаю із професійним святом – всіх, &nbsp;хто присвятив себе благородній справі – зберігати, розвивати і відтворювати безцінні духовні скарби нашого народу. Високо&#8230; </div>
+																																				
+						 
+										</div>
+				
+								<ul>
+												<li>
+							<time datetime="2017-11-09T12:50:43+02:00">9 листопада 2017</time>
+						</li>
+						
+						
+												<li><span>Опубліковано в </span><a href="/novyny">Новини</a> 
+						</li>
+												
+						
+												
+										</ul>
+								
+								
+				
+				
+				 
+						</div>
+</article>
+</div>						</div>
+												</div>
+																		
+												<div class="itemListRow gkListCols2">
+												
+												<div class="itemContainer" style="width:49.9%;">
+								<div class="itemsContainerWrap">
+<article class="itemView groupPrimary">  		
+		<div class="itemBlock">	
+								<div class="itemImageBlock"> <a class="itemImage" href="/novyny/item/121-volodymyr-ihnatchenko-stav-delehatom-zahalnykh-zboriv-upovnovazhenykh-predstavnykiv-orhaniv-mistsevoho-samovriaduvannia" title="Володимир Ігнатченко став делегатом  Загальних зборів уповноважених представників органів місцевого самоврядування"> <img src="/media/k2/items/cache/474f4cdd4383ff91fd1d98bcb039d93b_M.jpg" alt="Володимир Ігнатченко став делегатом  Загальних зборів уповноважених представників органів місцевого самоврядування" style="width:400px; height:auto;" /> </a> </div>
+								
+				<header>
+										
+												<h2>
+																<a href="/novyny/item/121-volodymyr-ihnatchenko-stav-delehatom-zahalnykh-zboriv-upovnovazhenykh-predstavnykiv-orhaniv-mistsevoho-samovriaduvannia">Володимир Ігнатченко став делегатом  Загальних зборів уповноважених представників органів місцевого самоврядування</a>
+																						</h2>
+										</header>
+				
+				 
+								
+				<div class="itemBody">  												<div class="itemIntroText"> Сьогодні,&nbsp;8 листопада, у Чернігівській міській раді відбулися загальні збори Чернігівського регіонального відділення Асоціації міст України. Участь у засіданні взяв і голова Носівської міської ради Володимир Ігнатченко. Відкрив зібрання голова регіонального&#8230; </div>
+																																				
+						 
+										</div>
+				
+								<ul>
+												<li>
+							<time datetime="2017-11-08T17:30:13+02:00">8 листопада 2017</time>
+						</li>
+						
+						
+												<li><span>Опубліковано в </span><a href="/novyny">Новини</a> 
+						</li>
+												
+						
+												
+										</ul>
+								
+								
+				
+				
+				 
+						</div>
+</article>
+</div>						</div>
+																		
+												
+												<div class="itemContainer itemContainerLast" style="width:49.9%;">
+								<div class="itemsContainerWrap">
+<article class="itemView groupPrimary">  		
+		<div class="itemBlock">	
+								<div class="itemImageBlock"> <a class="itemImage" href="/novyny/item/118-nosivskyi-krystal-vyborov-kubok-nizhynskoho-raionu" title="Носівський &amp;quot;Кристал&amp;quot; виборов кубок Ніжинського району"> <img src="/media/k2/items/cache/1ea804dbf6a45ba977293c237ecc1b08_M.jpg" alt="Носівський &amp;quot;Кристал&amp;quot; виборов кубок Ніжинського району" style="width:400px; height:auto;" /> </a> </div>
+								
+				<header>
+										
+												<h2>
+																<a href="/novyny/item/118-nosivskyi-krystal-vyborov-kubok-nizhynskoho-raionu">Носівський &quot;Кристал&quot; виборов кубок Ніжинського району</a>
+																						</h2>
+										</header>
+				
+				 
+								
+				<div class="itemBody">  												<div class="itemIntroText"> Доросла футбольна команда «Кристал» з'явилася на спортивному горизонті всього рік. Однак за цей короткий проміжок часу її учасники зарекомендували себе справжніми професіоналами, адже на рахунку «кристалівців» ціла низка перемог, до&#8230; </div>
+																																				
+						 
+										</div>
+				
+								<ul>
+												<li>
+							<time datetime="2017-11-08T16:15:55+02:00">8 листопада 2017</time>
+						</li>
+						
+						
+												<li><span>Опубліковано в </span><a href="/novyny">Новини</a> 
+						</li>
+												
+						
+												
+										</ul>
+								
+								
+				
+				
+				 
+						</div>
+</article>
+</div>						</div>
+												</div>
+																		
+												<div class="itemListRow gkListCols2">
+												
+												<div class="itemContainer" style="width:49.9%;">
+								<div class="itemsContainerWrap">
+<article class="itemView groupPrimary">  		
+		<div class="itemBlock">	
+								<div class="itemImageBlock"> <a class="itemImage" href="/novyny/item/110-naikrashche-ridnu-movu-znaiut-u-volodkovii-divytsi-a-matematyku-u-miskii-himnazii" title="Найкраще рідну мову знають у Володьковій Дівиці, а математику - у міській гімназії"> <img src="/media/k2/items/cache/d722f2a14a84b7ad8053262f61a6106b_M.jpg" alt="Найкраще рідну мову знають у Володьковій Дівиці, а математику - у міській гімназії" style="width:400px; height:auto;" /> </a> </div>
+								
+				<header>
+										
+												<h2>
+																<a href="/novyny/item/110-naikrashche-ridnu-movu-znaiut-u-volodkovii-divytsi-a-matematyku-u-miskii-himnazii">Найкраще рідну мову знають у Володьковій Дівиці, а математику - у міській гімназії</a>
+																						</h2>
+										</header>
+				
+				 
+								
+				<div class="itemBody">  												<div class="itemIntroText"> &nbsp; Минулої суботи стартував ІІ етап Всеукраїнських учнівських олімпіад з навчальних предметів. Традиційно першими змагаються знавці рідної мови та літератури. Цьогоріч у змаганнях, яке проходило у Носівській міській гімназії, брали&#8230; </div>
+																																				
+						 
+										</div>
+				
+								<ul>
+												<li>
+							<time datetime="2017-11-07T14:42:58+02:00">7 листопада 2017</time>
+						</li>
+						
+						
+												<li><span>Опубліковано в </span><a href="/novyny">Новини</a> 
+						</li>
+												
+						
+												
+										</ul>
+								
+								
+				
+				
+				 
+						</div>
+</article>
+</div>						</div>
+																		
+												
+												<div class="itemContainer itemContainerLast" style="width:49.9%;">
+								<div class="itemsContainerWrap">
+<article class="itemView groupPrimary">  		
+		<div class="itemBlock">	
+								<div class="itemImageBlock"> <a class="itemImage" href="/novyny/item/113-profesiia-daruvaty-sviato" title="Професія - дарувати свято"> <img src="/media/k2/items/cache/85b62d4a27ea43297eb1ab349b6e06c6_M.jpg" alt="Професія - дарувати свято" style="width:400px; height:auto;" /> </a> </div>
+								
+				<header>
+										
+												<h2>
+																<a href="/novyny/item/113-profesiia-daruvaty-sviato">Професія - дарувати свято</a>
+																						</h2>
+										</header>
+				
+				 
+								
+				<div class="itemBody">  												<div class="itemIntroText"> Професійне свято працівників культури та майстрів народного мистецтва, у календарі пам»ятних дат припадає на 9 листопада. Привітати&nbsp;&nbsp; наших культпрацівників прийшли перші керівники громади та району, представники установ та організацій міста.&#8230; </div>
+																																				
+						 
+										</div>
+				
+								<ul>
+												<li>
+							<time datetime="2017-11-07T13:24:27+02:00">7 листопада 2017</time>
+						</li>
+						
+						
+												<li><span>Опубліковано в </span><a href="/novyny">Новини</a> 
+						</li>
+												
+						
+												
+										</ul>
+								
+								
+				
+				
+				 
+						</div>
+</article>
+</div>						</div>
+												</div>
+																</div>
+														</div>
+								<nav class="pagination"><ul><li class="pagination-start"><a title="Початок" href="/novyny?limitstart=0" class="pagenav">Початок</a></li><li class="pagination-prev"><a title="Попередня" href="/novyny?start=143" class="pagenav">Попередня</a></li><li></li><li></li><li></li><li><span>&hellip;</span></li><li class="pagination-next"><a title="Наступна" href="/novyny?start=165" class="pagenav">Наступна</a></li><li class="pagination-end"><a title="Кінець" href="/novyny?start=187" class="pagenav">Кінець</a></li><li class="counter">Сторінка 15 із 18</li></ul></nav>						</div>
+
+<!-- JoomlaWorks "K2" (v2.8.0) | Learn more about K2 at http://getk2.org -->
+
+
+															</section>
+							
+													</div>
+						
+											</div>
+		    	</section>
+		    	
+		    			    	
+		    				</div>
+					</div>
+		
+				<aside id="gkSidebarLeft">
+			<div>
+				<div class="box menu"><h3 class="header">Меню</h3><div class="content">
+<script type="text/javascript">
+jQuery(document).ready(function($){
+
+	var acMenu = $("#flyout_menu_141");
+	acMenu.find("a").click(function(){
+		if ($(this).attr("target") == '_blank') {
+			window.open($(this).attr("href"));
+		} else {
+			location = $(this).attr("href");
+		}
+		return false;
+	});
+
+	acMenu.find("li").mouseleave(function(){
+		$(this).removeClass("opened");
+		$(this).children(".item-wrapper").children(".menu-button").children("img").attr("src", "/modules/mod_cinch_menu/tmpl/images/plus.png");
+		$(this).children(".ul-wrapper").hide(300);
+	}).mouseenter(function(){
+		$(this).children(".item-wrapper").children(".menu-button").children("img").attr("src", "/modules/mod_cinch_menu/tmpl/images/minus.png");
+		$(this).addClass("opened");
+		$(this).children(".ul-wrapper").show(300);
+	});
+});
+</script>
+<!--[if lte IE 6]><ul class="flyout-menu vertical flyout-right text-left button-right msie6" id="flyout_menu_141"><![endif]-->
+<!--[if IE 7]><ul class="flyout-menu vertical flyout-right text-left button-right msie7" id="flyout_menu_141"><![endif]-->
+<!--[if IE 8]><ul class="flyout-menu vertical flyout-right text-left button-right msie8" id="flyout_menu_141"><![endif]-->
+<!--[if IE 9]><ul class="flyout-menu vertical flyout-right text-left button-right msie9" id="flyout_menu_141"><![endif]-->
+<!--[if gt IE 9]><!--><ul class="flyout-menu vertical flyout-right text-left button-right" id="flyout_menu_141"><!--<![endif]-->
+	<li class='first separator'>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href=''>Наша громада</a></div>
+		</div>
+	<div class='ul-wrapper'><ul>
+	<li class='first'>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/nasha-hromada/istoriia'>Історія</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/nasha-hromada/pasport-hromady'>Паспорт  громади</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/nasha-hromada/statut-hromady'>Статут громади</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/nasha-hromada/symvolika'>Символіка</a></div>
+		</div>
+	</li>
+	<li class='last'>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/nasha-hromada/asotsiatsii'>Асоціації</a></div>
+		</div>
+	</li>
+	</ul></div></li>
+	<li class='separator'>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href=''>Міська рада</a></div>
+		</div>
+	<div class='ul-wrapper'><ul>
+	<li class='first'>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/miska-rada/miskyi-holova'>Міський голова</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/miska-rada/pershyi-zastupnyk-miskoho-holovy'>Перший заступник міського голови</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/miska-rada/zastupnyky-miskoho-holovy'>Заступники міського голови</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/miska-rada/keruyuchij-spravami-vikonavchogo-komitetu'>Керуючий справами виконавчого комітету</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/miska-rada/sekretar-miskoi-rady'>Секретар міської ради</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/miska-rada/starosty'>Старости</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/miska-rada/deputaty'>Депутати</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/miska-rada/fraktsii-ta-hrupy'>Фракції та групи</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/miska-rada/postiini-komisii'>Постійні комісії</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/?Itemid='>Структура міської ради</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/miska-rada/proekty-rishen-miskoi-rady'>Проекти рішень міської ради</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/miska-rada/rishennia-miskoi-rady'>Рішення міської ради</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/miska-rada/vakansii'>Вакансії</a></div>
+		</div>
+	</li>
+	<li class='last'>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/miska-rada/kontakty'>Контакти</a></div>
+		</div>
+	</li>
+	</ul></div></li>
+	<li class='separator'>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href=''>Виконавчий комітет</a></div>
+		</div>
+	<div class='ul-wrapper'><ul>
+	<li class='first'>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/personal-nij-sklad'>Персональний склад</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/proekty-rishen-vykonavchoho-komitetu'>Проекти рішень виконавчого комітету</a></div>
+		</div>
+	</li>
+	<li class='last'>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/rishennia-vykonavchoho-komitetu'>Рішення виконавчого комітету</a></div>
+		</div>
+	</li>
+	</ul></div></li>
+	<li class='separator'>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href=''>Нормативні документи</a></div>
+		</div>
+	<div class='ul-wrapper'><ul>
+	<li class='first'>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/zakonodavstvo'>Законодавство</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/rehlament-roboty-miskoi-rady'>Регламент роботи міської ради</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/rehlament-roboty-vykonavchoho-komitetu'>Регламент роботи виконавчого комітету</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/rozporiadzhennia-miskoho-holovy'>Розпорядження міського голови</a></div>
+		</div>
+	</li>
+	<li class='separator'>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href=''>Регуляторна діяльність</a></div>
+		</div>
+	<div class='ul-wrapper'><ul>
+	<li class='first'>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/rehuliatorna-diialnist/zrazky-dokumentiv'>Зразки документів</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/rehuliatorna-diialnist/plan-pidhotovky'>План підготовки</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/rehuliatorna-diialnist/proekty-ta-analiz-rehuliatornoho-vplyvu'>Проекти та аналіз регуляторного впливу</a></div>
+		</div>
+	</li>
+	<li class='last'>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/rehuliatorna-diialnist/reiestr-rehuliatornoho-vplyvu'>Реєстр регуляторного впливу</a></div>
+		</div>
+	</li>
+	</ul></div></li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/dostup-do-publichnoi-informatsii'>Доступ до публічної інформації</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/ochyshchennia-vlady'>Очищення влади</a></div>
+		</div>
+	</li>
+	<li class='last'>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/derzhavni-zakupivli'>Державні закупівлі</a></div>
+		</div>
+	</li>
+	</ul></div></li>
+	<li class='separator'>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href=''>Зв'язки з громадськістю</a></div>
+		</div>
+	<div class='ul-wrapper'><ul>
+	<li class='first'>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/normatyvno-pravova-baza'>Нормативно-правова база</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/zvernennia-hromadian'>Звернення громадян</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/elektronna-pryimalnia'>Електронна приймальня</a></div>
+		</div>
+	</li>
+	<li>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/zvity'>Звіти</a></div>
+		</div>
+	</li>
+	<li class='last'>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/hostova-knyha'>Гостьова книга</a></div>
+		</div>
+	</li>
+	</ul></div></li>
+	<li class='separator'>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href=''>Комунальна сфера</a></div>
+		</div>
+	<div class='ul-wrapper'><ul>
+	<li class='first'>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/kp-nosivka-komunalnyk'>КП "Носівка-комунальник"</a></div>
+		</div>
+	</li>
+	<li class='last'>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/komunalne-maino'>Комунальне майно</a></div>
+		</div>
+	</li>
+	</ul></div></li>
+	<li class='separator'>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href=''>Культура</a></div>
+		</div>
+	<div class='ul-wrapper'><ul>
+	<li class='first'>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/kerivnytstvo-kultura'>Керівництво відділу</a></div>
+		</div>
+	</li>
+	<li class='last'>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/zaklady-kultury'>Заклади культури</a></div>
+		</div>
+	</li>
+	</ul></div></li>
+	<li class='separator'>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/?Itemid='>Соціальний захист</a></div>
+		</div>
+	<div class='ul-wrapper'><ul>
+	<li class='first'>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/kerivnytstvo-viddilu'>Керівництво відділу</a></div>
+		</div>
+	</li>
+	<li class='last'>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/zaklady-sotsialnoho-zakhystu'>Заклади соціального захисту</a></div>
+		</div>
+	</li>
+	</ul></div></li>
+	<li class='last separator'>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href=''>Освіта</a></div>
+		</div>
+	<div class='ul-wrapper'><ul>
+	<li class='first'>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/kerivnytstvo-osvita'>Керівництво відділу</a></div>
+		</div>
+	</li>
+	<li class='last'>
+		<div class='item-wrapper'>
+			<div class='menu-link'><a href='/zaklady-osvity'>Заклади освіти</a></div>
+		</div>
+	</li></ul></div>
+	</li>
+<div style='clear:both;' /></ul>
+</div></div>
+			</div>
+		</aside>
+		    </div>
+    
+        
+        <section id="gkBottom4" class="gkPage">
+    	<div class="gkCols6">
+    		<div class="box  gkmod-1"><div class="content">
+
+<div class="custom "  >
+
+	<table dir="ltr" frame="void" rules="none">
+<tbody>
+<tr>
+<td style="text-align: left; vertical-align: top;"><span style="color: #00cccc; font-weight: bold;">Наша громада</span><br /><!-- START: Modules Anywhere -->
+<ul class="menu">
+<li class="item-183"><a href="/nasha-hromada/istoriia" >Історія</a></li><li class="item-184"><a href="/nasha-hromada/pasport-hromady" >Паспорт  громади</a></li><li class="item-185"><a href="/nasha-hromada/statut-hromady" >Статут громади</a></li><li class="item-186"><a href="/nasha-hromada/symvolika" >Символіка</a></li><li class="item-187"><a href="/nasha-hromada/asotsiatsii" >Асоціації</a></li></ul>
+<!-- END: Modules Anywhere --><br /><span style="color: #00cccc; font-weight: bold;">Виконавчий комітет</span><br /><!-- START: Modules Anywhere -->
+<ul class="menu">
+<li class="item-228"><a href="/personal-nij-sklad" >Персональний склад</a></li><li class="item-229"><a href="/proekty-rishen-vykonavchoho-komitetu" >Проекти рішень виконавчого комітету</a></li><li class="item-230"><a href="/rishennia-vykonavchoho-komitetu" >Рішення виконавчого комітету</a></li></ul>
+<!-- END: Modules Anywhere --><br /><span style="color: #00cccc; font-weight: bold;">Комунальна сфера</span><br /><!-- START: Modules Anywhere -->
+<ul class="menu">
+<li class="item-231"><a href="/kp-nosivka-komunalnyk" >КП &quot;Носівка-комунальник&quot;</a></li><li class="item-232"><a href="/komunalne-maino" >Комунальне майно</a></li></ul>
+<!-- END: Modules Anywhere --></td>
+<td style="text-align: left; vertical-align: top;"><span style="color: #00cccc; font-weight: bold;">Міська рада</span><br /><!-- START: Modules Anywhere -->
+<ul class="menu">
+<li class="item-197"><a href="/miska-rada/miskyi-holova" >Міський голова</a></li><li class="item-198"><a href="/miska-rada/pershyi-zastupnyk-miskoho-holovy" >Перший заступник міського голови</a></li><li class="item-199"><a href="/miska-rada/zastupnyky-miskoho-holovy" >Заступники міського голови</a></li><li class="item-200"><a href="/miska-rada/keruyuchij-spravami-vikonavchogo-komitetu" >Керуючий справами виконавчого комітету</a></li><li class="item-201"><a href="/miska-rada/sekretar-miskoi-rady" >Секретар міської ради</a></li><li class="item-202"><a href="/miska-rada/starosty" >Старости</a></li><li class="item-203"><a href="/miska-rada/deputaty" >Депутати</a></li><li class="item-204"><a href="/miska-rada/fraktsii-ta-hrupy" >Фракції та групи</a></li><li class="item-205"><a href="/miska-rada/postiini-komisii" >Постійні комісії</a></li><li class="item-206"><a href="/miska-rada/struktura-miskoi-rady" >Структура міської ради</a></li><li class="item-207"><a href="/miska-rada/proekty-rishen-miskoi-rady" >Проекти рішень міської ради</a></li><li class="item-208"><a href="/miska-rada/rishennia-miskoi-rady" >Рішення міської ради</a></li><li class="item-209"><a href="/?Itemid=209" >Вакансії</a></li><li class="item-210"><a href="/miska-rada/kontakty" >Контакти</a></li></ul>
+<!-- END: Modules Anywhere --></td>
+<td style="text-align: left; vertical-align: top;"><span style="color: #00cccc; font-weight: bold;">Нормативні документи</span><br /><!-- START: Modules Anywhere -->
+<ul class="menu">
+<li class="item-211"><a href="/zakonodavstvo" >Законодавство</a></li><li class="item-212"><a href="/rehlament-roboty-miskoi-rady" >Регламент роботи міської ради</a></li><li class="item-213"><a href="/rehlament-roboty-vykonavchoho-komitetu" >Регламент роботи виконавчого комітету</a></li><li class="item-214"><a href="/rozporiadzhennia-miskoho-holovy" >Розпорядження міського голови</a></li><li class="item-215 deeper parent"><a href="/rehuliatorna-diialnist" >Регуляторна діяльність</a><ul><li class="item-216"><a href="/rehuliatorna-diialnist/zrazky-dokumentiv" >Зразки документів</a></li><li class="item-217"><a href="/rehuliatorna-diialnist/plan-pidhotovky" >План підготовки</a></li><li class="item-218"><a href="/rehuliatorna-diialnist/proekty-ta-analiz-rehuliatornoho-vplyvu" >Проекти та аналіз регуляторного впливу</a></li><li class="item-219"><a href="/rehuliatorna-diialnist/reiestr-rehuliatornoho-vplyvu" >Реєстр регуляторного впливу</a></li></ul></li><li class="item-220"><a href="/dostup-do-publichnoi-informatsii" >Доступ до публічної інформації</a></li><li class="item-221"><a href="/ochyshchennia-vlady" >Очищення влади</a></li><li class="item-222"><a href="/derzhavni-zakupivli" >Державні закупівлі</a></li></ul>
+<!-- END: Modules Anywhere --></td>
+<td style="text-align: left; vertical-align: top;"><span style="color: #00cccc; font-weight: bold;">Освіта</span><br /><!-- START: Modules Anywhere -->
+<ul class="menu">
+<li class="item-233"><a href="/kerivnytstvo-osvita" >Керівництво відділу</a></li><li class="item-234"><a href="/zaklady-osvity" >Заклади освіти</a></li></ul>
+<!-- END: Modules Anywhere --><br /><span style="color: #00cccc; font-weight: bold;">Культура</span><br /><!-- START: Modules Anywhere -->
+<ul class="menu">
+<li class="item-235"><a href="/kerivnytstvo-kultura" >Керівництво відділу</a></li><li class="item-236"><a href="/zaklady-kultury" >Заклади культури</a></li></ul>
+<!-- END: Modules Anywhere --><br /><span style="color: #00cccc; font-weight: bold;">Соціальний захист</span><br /><!-- START: Modules Anywhere -->
+<ul class="menu">
+<li class="item-237"><a href="/kerivnytstvo-viddilu" >Керівництво відділу</a></li><li class="item-238"><a href="/zaklady-sotsialnoho-zakhystu" >Заклади соціального захисту</a></li></ul>
+<!-- END: Modules Anywhere --></td>
+<td style="text-align: left; vertical-align: top;"><span style="color: #00cccc; font-weight: bold;">З'язки з громадскістю</span><br /><!-- START: Modules Anywhere -->
+<ul class="menu">
+<li class="item-223"><a href="/normatyvno-pravova-baza" >Нормативно-правова база</a></li><li class="item-224"><a href="/zvernennia-hromadian" >Звернення громадян</a></li><li class="item-225"><a href="/elektronna-pryimalnia" >Електронна приймальня</a></li><li class="item-226"><a href="/zvity" >Звіти</a></li><li class="item-227"><a href="/hostova-knyha" >Гостьова книга</a></li></ul>
+<!-- END: Modules Anywhere --></td>
+</tr>
+</tbody>
+</table>	
+</div>
+</div></div>
+    	</div>
+    </section>
+        
+        
+        
+    
+<footer id="gkFooter">
+     <div class="gkPage">
+                    <div id="gkFooterArea">
+                              <a href="#gkBg" id="gkBackToTop">Вгору</a>
+                                        </div>
+                                        <p id="gkCopyrights">
+               <div class="maxpro">
+<div class="maxpro-1"><ul><li>© Носівська об'єднана територіальна громада 2017. Всі права захищено.</li></div>
+<div class="maxpro-2"><ul><li>Розроблено:</li><li><a href="https://maxpro.company" target="_blank" rel="noopener noreferrer"></a></li></div>
+</div>          </p>
+                                   </div>
+</footer>
+   	
+
+<!-- +1 button -->
+
+<!-- twitter -->
+
+
+<!-- Pinterest script --> 
+   		
+	
+	<script>
+	jQuery(document).ready(function(){
+   		// Target your .container, .wrapper, .post, etc.
+   		jQuery("body").fitVids();
+	});
+	</script>
+</body>
+</html>
