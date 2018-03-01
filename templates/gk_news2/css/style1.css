@@ -89,7 +89,14 @@ a,
 #gkBottom4 .box a:active,
 #gkBottom4 .box a:focus,
 #gkBottom4 .box a:hover {
-	color: /*#8ac95c;*/ #00cccc;
+	/* color: #fff;
+	background-color: #47505b; */
+
+	/* display:inline-block;
+    border-bottom:1px solid black;
+	padding-bottom:2px; */
+	text-decoration: underline red;
+	color: #000;
 }
 
 /* joomla.css */

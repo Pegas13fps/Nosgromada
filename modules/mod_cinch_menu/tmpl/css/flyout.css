@@ -94,6 +94,9 @@ ul.flyout-menu.text-left .menu-link {
 	background-color: #009ae1;
 	text-align: center;
 }
+ul.flyout-menu.text-left .menu-link:hover {
+	background-color: #47505b;
+}
 ul.flyout-menu.text-right .menu-link {
 /*	float:right; */
 	margin-left: /*21px;*/ 0;
