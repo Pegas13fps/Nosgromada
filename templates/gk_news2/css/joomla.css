@@ -141,7 +141,7 @@ ul.pager li.previous {
 }
 .readon:after {
 	border: 1px solid #e5e5e5;
-	color: /*#8ac95c;*/ #00cccc;
+	color: /*#8ac95c;*/ #009ae1;
 	content: "a";
 	display: block;
 	font-family: "news2-icons";
@@ -168,8 +168,8 @@ ul.pager li.previous {
 .readon:hover::after,
 .readon:active::after,
 .readon:focus::after {
-	background:/*#8ac95c;*/ #00cccc;
-	color:#fff;
+	background:/*#8ac95c;*/ #009ae1;
+	color:#000;
 }
 
 input[type=checkbox],
@@ -307,7 +307,7 @@ th {
 th a { color: #222!important; }
 tbody tr td {
 	border-bottom: 1px solid #e5e5e5;
-	padding: 10px
+	/* padding: 10px */
 }
 tbody tr td p { margin: .5em 0 }
 .list-author { color: #999}
@@ -786,7 +786,9 @@ div.banneritem {
 	/*border-top: 1px solid #e5e5e5;*/
 	color: #999;
 	font-size: 13px;
-	padding: 8px 0
+	text-align: center;
+	height: 90px;
+	margin: 10px 0;
 }
 div.banneritem a {
 	font-size: 14px;

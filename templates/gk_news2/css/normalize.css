@@ -266,6 +266,9 @@ img {
     border: 0; /* 1 */
     -ms-interpolation-mode: bicubic; /* 2 */
 }
+.rightLinks {
+    box-shadow: 0 0 10px #000;
+}
 
 /*
  * Corrects overflow displayed oddly in IE9 

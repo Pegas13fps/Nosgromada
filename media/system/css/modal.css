@@ -74,6 +74,9 @@
 	height: 100%;
 }
 
+.rightLinks:hover {
+	box-shadow: 0 0 25px #0000ff;
+}
 .sbox-content-iframe#sbox-content {
 	overflow: visible;
 }

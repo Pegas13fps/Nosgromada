@@ -123,7 +123,8 @@ li.previous a,
 .readon:active,
 .readon:focus,
 .readon:hover {	
-	color: /*#8ac95c;*/ #00cccc;
+	color: /*#8ac95c;*/ #000;
+	background: #009ae1;
 }
 article header.itemHasImage h1 a:active,
 article header.itemHasImage h1 a:focus,
@@ -168,13 +169,13 @@ dl.tabs dt.tabs.open a {
 .readon-button:active,
 .readon-button:focus,
 .readon-button:hover {
-	color: /*#8ac95c;*/ #fff;
-	/**/background: /*#8ac95c;*/ #00cccc;
+	color: #fff;
+	/**/background: #009ae1;
 }
 .nspLinks ul li h4 a:active,
 .nspLinks ul li h4 a:focus,
 .nspLinks ul li h4 a:hover {
-	color: /*#8ac95c;*/ #00cccc;
+	color: /*#8ac95c;*/ #009ae1;
 }
 .box.title-color1 .nspLinks ul li h4 a:hover,
 .box.title-color1 .nspArt h4.nspHeader a:hover { color: /*#8ac95c;*/ #00cccc; }
@@ -269,19 +270,19 @@ a.k2FeedIcon:before {
 }
 .activeCategory a { color: /*#8ac95c;*/ #00cccc; }
 .itemImageBlock sup {
-	background: /*#8ac95c;*/ #00cccc;
+	background: /*#8ac95c;*/ #009ae1;
 }
 ul.itemTags li a:hover,
 div.tags a:hover,
 div.tags a:focus,
 div.tags a:active { 
-	background: /*#8ac95c;*/ #00cccc;
+	background: /*#8ac95c;*/ #009ae1;
 }
 .k2CalendarBlock table.calendar tr td.calendarDateLinked a {
 	color: /*#8ac95c;*/ #00cccc;
 }
 .k2CalendarBlock table.calendar tr td.calendarToday {
-	background: /*#8ac95c;*/ #00cccc;
+	background: /*#8ac95c;*/ #009ae1;
 }
 .k2CalendarBlock table.calendar tr td.calendarTodayLinked { background: /*#8ac95c;*/ #00cccc; }
 .calendarNavLink { color: /*#8ac95c;*/ #00cccc; }
@@ -294,8 +295,8 @@ div.tags a:active {
 #eblog-wrapper .blog-taglist a:hover,
 #eblog-wrapper .post-tags li a:hover,
 #ezblog-menu .blog-navi li.toolbar-item.item-active {
-	background: /*#8ac95c;*/ #00cccc;
+	background: /*#8ac95c;*/ #009ae1;
 }
 #ezblog-menu .blog-navi li.toolbar-item > form button.submit-search:hover {
-	background-color: /*#8ac95c;*/ #00cccc;
+	background-color: /*#8ac95c;*/ #009ae1;
 }
