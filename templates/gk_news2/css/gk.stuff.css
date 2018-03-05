@@ -194,7 +194,7 @@
 	padding: 0 0 16px 0;
 	text-transform: none;
 }
-.nspArt h4.nspHeader a { color: /*#222;*/ #666; }
+.nspArt h4.nspHeader a { color: /*#222;*/ #000; }
 .nspArt h4.nspHeader a:hover { color: #eb1e00; }
 
 .nspArt img.nspImage {
@@ -536,7 +536,7 @@ img.nspImage.gkResponsive {
 	color: #eb1e00;
 }
 .box.title-color2 .nspLinks ul li h4 a:hover,
-.box.title-color2 .nspArt h4.nspHeader a:hover { color: #56afc3; }
+.box.title-color2 .nspArt h4.nspHeader a:hover { color: #000; }
 .box.title-color2 .readon-button:hover {
 	
 	color: #56afc3;

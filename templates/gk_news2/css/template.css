@@ -403,6 +403,7 @@ iframe { max-width: 100%!important; }
 #gkSidebarLeft .box:first-child,
 #gkSidebarRight .box:first-child {
 	border-top: none;
+	text-align: center;
 }
 
 /* Stylearea */
@@ -680,14 +681,16 @@ div.content {
 .box .header {
 	font-size: 20px;
 	font-weight: bold;
+	border: 2px solid #009ae1;
   	letter-spacing: 1px;
   	max-width: 320px;
-  	width: 100%;
+	  width: 50%;
+	  text-align: center;
   	position: relative;
   	display: inline-block;
   	color: #465457;
 }
-.box .header {
+/* .box .header {
 		display: table;
 		width: auto;
 		margin: 0 auto;
@@ -704,7 +707,7 @@ div.content {
 		width: calc(100% - 4px);
 		height: calc(100% - 4px);
 		border: 2px solid #009ae1;
-}
+} */
 
 
 /* clear suffix */

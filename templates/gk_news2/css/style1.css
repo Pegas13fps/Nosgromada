@@ -160,11 +160,14 @@ dl.tabs dt.tabs.open a {
 .nspPagination li.active { background-color: /*#8ac95c;*/ #00cccc; }
 .nspNext:hover:after,
 .nspPrev:hover:after { color: /*#8ac95c;*/ #00cccc; }
-.nspArt h4.nspHeader a:hover { color: /*#8ac95c;*/ #00cccc; }
+.nspArt h4.nspHeader a:hover { 
+	color: #fff;
+	background-color: #47505b;
+}
 .nspArt p.nspInfo a:active,
 .nspArt p.nspInfo a:focus,
 .nspArt p.nspInfo a:hover {
-	color: /*#8ac95c!important;*/ #00cccc !important;
+	color: /*#8ac95c!important;*/ #000 !important;
 }
 .readon-button:active,
 .readon-button:focus,
@@ -178,9 +181,9 @@ dl.tabs dt.tabs.open a {
 	color: /*#8ac95c;*/ #009ae1;
 }
 .box.title-color1 .nspLinks ul li h4 a:hover,
-.box.title-color1 .nspArt h4.nspHeader a:hover { color: /*#8ac95c;*/ #00cccc; }
+.box.title-color1 .nspArt h4.nspHeader a:hover { color: /*#8ac95c;*/ #000; }
 .box.title-color1 .readon-button:hover {
-	color: /*#8ac95c;*/ #00cccc;
+	color: /*#8ac95c;*/ #000;
 }
 .box.title-color2 .nspLinks ul li h4 a:hover,
 .box.title-color2 .nspArt h4.nspHeader a:hover { color: #56afc3; }
@@ -208,12 +211,12 @@ dl.tabs dt.tabs.open a {
 	color: #736357;
 }
 .box.highlights .nspInfo span {
-	color: /*#8ac95c;*/ #00cccc;
+	color: /*#8ac95c;*/ #000;
 }
 .box.highlights .nspTitleArea h4 a:active,
 .box.highlights .nspTitleArea h4 a:focus,
 .box.highlights .nspTitleArea h4 a:hover {
-	color: /*#8ac95c;*/ #00cccc;
+	color: /*#8ac95c;*/ #000;
 }
 .gkNspPM-VideoList .gkBottomNavNext:hover:after,
 .gkNspPM-VideoList .gkBottomNavPrev:hover:after { color: /*#8ac95c;*/ #00cccc; }
@@ -221,16 +224,16 @@ dl.tabs dt.tabs.open a {
 .gkNspPM-VideoList .gkBottomNavPagination li.active { background-color: /*#8ac95c;*/ #00cccc; }
 .gkTabsWrap ol li.active,
 .gkTabsWrap ol li.active:hover {
-    background: /*#8ac95c;*/ #00cccc;
+    background: /*#8ac95c;*/ #000;
 }
 .gkTabsWrap ol li.active:after {
 	border-top-color: /*#8ac95c;*/ #00cccc;
 }
 .gkTabsWrap ol li:hover { 
-    color: /*#8ac95c;*/ #00cccc;
+    color: /*#8ac95c;*/ #000;
 }
 .gk-newsletter strong > span {
-	color: /*#8ac95c;*/ #00cccc;
+	color: /*#8ac95c;*/ #000;
 }
 .gkHighlighterInterface div a.prev:hover:before,
 .gkHighlighterInterface div a.next:hover:before { 
@@ -241,7 +244,7 @@ dl.tabs dt.tabs.open a {
 	color: /*#8ac95c;*/ #00cccc;
 }
 span.gkwDayDay {
-	color: /*#8ac95c;*/ #00cccc;
+	color: /*#8ac95c;*/ #000;
 }
 
 /* menu.css */
